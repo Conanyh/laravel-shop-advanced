@@ -10,6 +10,7 @@
     "require": {
         "php": "^7.2",
         "doctrine/dbal": "^2.10",
+        "elasticsearch/elasticsearch": "~7.0",
         "encore/laravel-admin": "1.7.7",
         "endroid/qr-code": "^3.6",
         "fideloper/proxy": "^4.0",
